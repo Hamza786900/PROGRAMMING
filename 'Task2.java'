@@ -1,0 +1,31 @@
+public class Student{
+ 	private String name;
+ 	private String email;
+ 	private double CGPA;
+Student(String name,String email,double CGPA){
+
+}
+
+public void SetName(String name){
+	this.name=name;
+}
+public void SetEmail(String email){
+	this.email=email;
+}
+public void SetGPA(double cgpa){
+	this.cgpa=cgpa;
+}
+public String getName(){
+	return name;
+}
+public String getEmail(){
+	return email;
+}
+public double getGPA{
+	return cgpa;
+}
+
+
+
+
+	
