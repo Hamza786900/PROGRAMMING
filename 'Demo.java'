@@ -1,0 +1,9 @@
+//Hamza Imran
+//SP25-BCS-043
+Public class demo{
+public static void main(String[] args){
+Student s=new student();
+s.display()
+
+}
+}

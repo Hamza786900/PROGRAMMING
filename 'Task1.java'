@@ -1,0 +1,15 @@
+//Hamza Imran
+//SP25-BCS-043
+public class Student{
+ private String name;
+ private String email;
+ private double CGPA;
+
+public void display Student(){
+
+ System.out.println("Name:"+name);
+ System.out.println("Email:"+email);
+ System.out.println("CGPA:"+CGPA);
+
+}
+}
